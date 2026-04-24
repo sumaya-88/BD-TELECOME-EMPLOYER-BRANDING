@@ -118,8 +118,7 @@ Engagement rates and post metrics are **estimated** from publicly observable Lin
 
 ## 📸 Report Preview
 
-### 🏠 Report Cover
-![Report Cover](Screenshot%202026-04-24%20123030.png)
+
 
 ---
 
