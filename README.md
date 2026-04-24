@@ -4,9 +4,51 @@
 
 ---
 
+## 📸 Report Preview
+
+### 🏠 Report Cover
+![Report Cover](Screenshot%202026-04-24%20123030.png)
+
+---
+
+### 1️⃣ Industry Overview
+![Industry Overview](Screenshot%202026-04-24%20123015.png)
+
+---
+
+### 2️⃣ Key Performance Metrics at a Glance
+![Key Performance Metrics](Screenshot%202026-04-24%20122845.png)
+
+---
+
+### 3️⃣ Company-by-Company Profiles — GP & Robi
+![Company Profiles GP and Robi](Screenshot%202026-04-24%20123100.png)
+
+---
+
+### 3️⃣ Company-by-Company Profiles — Banglalink & Teletalk
+![Company Profiles Banglalink and Teletalk](Screenshot%202026-04-24%20123110.png)
+
+---
+
+### 4️⃣ Visual Performance Dashboard
+![Visual Performance Dashboard](Screenshot%202026-04-24%20123122.png)
+
+---
+
+### 5️⃣ Comparative Scorecard
+![Comparative Scorecard](Screenshot%202026-04-24%20123134.png)
+
+---
+
+### 6️⃣ Key Findings
+![Key Findings](Screenshot%202026-04-24%20123146.png)
+
+---
+
 ## 📌 Project Overview
 
-This project was built to demonstrate core competencies in:
+This project demonstrates core competencies in:
 - **Digital research & competitive analysis**
 - **Social media data collection and structuring**
 - **Data visualisation (Python)**
@@ -20,10 +62,10 @@ Skills directly relevant to **Banglalink's HR / Employer Branding** function.
 
 | Company | LinkedIn Followers | Posts/Month | Engagement Rate |
 |---|---|---|---|
-| Grameenphone | 436,248 | 14 | 3.8% |
-| Robi Axiata | 339,596 | 10 | 3.1% |
-| **Banglalink** | **~168,000** | **8** | **2.5%** |
-| Teletalk | ~12,000 | 2 | 0.8% |
+| 🟢 Grameenphone | 436,248 | 14 | 3.8% |
+| 🔴 Robi Axiata | 339,596 | 10 | 3.1% |
+| 🟠 **Banglalink** | **~168,000** | **8** | **2.5%** |
+| 🔵 Teletalk | ~12,000 | 2 | 0.8% |
 
 *Data: Q4 2024 – Q1 2026 | Sources: LinkedIn public pages, BTRC, company press releases*
 
@@ -32,49 +74,51 @@ Skills directly relevant to **Banglalink's HR / Employer Branding** function.
 ## 📁 Project Structure
 
 ```
-bd_telecom_employer_branding/
+BD-TELECOME-EMPLOYER-BRANDING/
 │
-├── report.html                        ← Full interactive report (open in browser)
-├── data_collector.py                  ← Python data collection & visualisation script
-├── README.md                          ← This file
+├── report.html                  ← Full interactive report (open in browser)
+├── data_collector.py            ← Python data collection & visualisation script
+├── README.md                    ← This file
+├── Screenshot 2026-04-24 *.png  ← Report section screenshots
 │
 ├── data/
-│   ├── bd_telecom_employer_branding.csv      ← Structured dataset (CSV)
-│   ├── bd_telecom_employer_branding.xlsx     ← Structured dataset (Excel)
-│   └── bd_telecom_employer_branding_full.json ← Full JSON with all attributes
+│   ├── bd_telecom_employer_branding.csv
+│   ├── bd_telecom_employer_branding.xlsx
+│   └── bd_telecom_employer_branding_full.json
 │
 └── assets/
-    └── linkedin_performance_charts.png       ← 6-panel visualisation dashboard
+    └── linkedin_performance_charts.png
 ```
 
 ---
 
-## 🚀 How to Run
+## 🚀 How to View the Report
 
-### 1. View the Report
-Simply open `report.html` in any browser — no server needed.
+**Option 1 — Open locally:**
+Download the repo and open `report.html` in any browser. No server needed.
 
-### 2. Run the Data Script
+**Option 2 — Live website:**
+👉 [https://sumaya-88.github.io/BD-TELECOME-EMPLOYER-BRANDING/report.html](https://sumaya-88.github.io/BD-TELECOME-EMPLOYER-BRANDING/report.html)
+
+---
+
+## 🚀 How to Run the Python Script
 
 ```bash
-# Install dependencies
 pip install pandas openpyxl matplotlib seaborn
-
-# Run the collector
 python data_collector.py
 ```
-
-This regenerates all data files and charts.
 
 ---
 
 ## 📊 Key Findings
 
 1. **Flagship programmes drive disproportionate engagement** — GP's Platform SHE and Robi's Datathon generate 2–3× higher engagement than standard posts.
-2. **Video content is underpowered** — Even the leader uses video in only 35% of posts, despite LinkedIn's 3× algorithm boost for video.
+2. **Video content is underpowered** — Even the leader uses video in only 35% of posts, despite LinkedIn's 3× algorithm boost.
 3. **Bangla language = untapped authenticity** — All operators post predominantly in English despite targeting a Bangladeshi talent pool.
 4. **Employee advocacy is highest-ROI** — Employee-shared content gets 5–10× more reach than company page posts.
 5. **Consistency beats virality** — GP's steady 14 posts/month is the primary driver of its follower advantage.
+6. **B2B vs Employer Brand separation is critical** — Banglalink's feed mixes enterprise posts with talent content, diluting the employer brand.
 
 ---
 
@@ -91,35 +135,11 @@ This regenerates all data files and charts.
 
 ---
 
-## ⚙️ Technical Notes
-
-### LinkedIn API Limitation
-LinkedIn's full analytics API requires:
-- OAuth 2.0 credentials
-- LinkedIn Marketing Developer Partner (MDP) agreement
-
-The `data_collector.py` script includes a structured dataset based on publicly observable metrics and provides a framework ready to be extended with live API credentials.
-
-### Data Sources
-- LinkedIn company pages (public)
-- BTRC subscriber data (March 2025)
-- The Daily Star, The Business Standard, Prothom Alo
-- LeadIQ, ZoomInfo company profiles
-- Company Wikipedia pages and press releases
-
----
-
-## 📐 Methodology
-
-Engagement rates, average likes, comments, and shares are **estimated** from observable public data and LinkedIn industry benchmarks. These figures are directional rather than precise — LinkedIn does not expose post-level analytics publicly without API access.
-
----
-
 ## 🛠 Tech Stack
 
 | Tool | Purpose |
 |---|---|
-| Python 3 | Data collection, structuring, export |
+| Python 3 | Data collection & export |
 | pandas | Data manipulation |
 | matplotlib + seaborn | Visualisations |
 | HTML / CSS | Interactive report |
@@ -127,10 +147,11 @@ Engagement rates, average likes, comments, and shares are **estimated** from obs
 
 ---
 
-## 📄 License
+## 📐 Methodology
 
-For educational and professional portfolio use.
+Engagement rates and post metrics are **estimated** from publicly observable LinkedIn data and industry benchmarks. LinkedIn does not expose post-level analytics publicly without API access.
 
 ---
 
-*Prepared: April 2026 | Dhaka, Bangladesh*
+*Prepared: April 2026 | Dhaka, Bangladesh*  
+*Author: [Sumaya](https://github.com/sumaya-88)*
