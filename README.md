@@ -2,49 +2,6 @@
 
 > **A structured competitive analysis of LinkedIn employer branding strategies across top telecom companies in Bangladesh — with strategic recommendations for Banglalink.**
 
----
-
-## 📸 Report Preview
-
-### 🏠 Report Cover
-![Report Cover](Screenshot%202026-04-24%20123030.png)
-
----
-
-### 1️⃣ Industry Overview
-![Industry Overview](Screenshot%202026-04-24%20123015.png)
-
----
-
-### 2️⃣ Key Performance Metrics at a Glance
-![Key Performance Metrics](Screenshot%202026-04-24%20122845.png)
-
----
-
-### 3️⃣ Company-by-Company Profiles — GP & Robi
-![Company Profiles GP and Robi](Screenshot%202026-04-24%20123100.png)
-
----
-
-### 3️⃣ Company-by-Company Profiles — Banglalink & Teletalk
-![Company Profiles Banglalink and Teletalk](Screenshot%202026-04-24%20123110.png)
-
----
-
-### 4️⃣ Visual Performance Dashboard
-![Visual Performance Dashboard](Screenshot%202026-04-24%20123122.png)
-
----
-
-### 5️⃣ Comparative Scorecard
-![Comparative Scorecard](Screenshot%202026-04-24%20123134.png)
-
----
-
-### 6️⃣ Key Findings
-![Key Findings](Screenshot%202026-04-24%20123146.png)
-
----
 
 ## 📌 Project Overview
 
@@ -155,3 +112,48 @@ Engagement rates and post metrics are **estimated** from publicly observable Lin
 
 *Prepared: April 2026 | Dhaka, Bangladesh*  
 *Author: [Sumaya](https://github.com/sumaya-88)*
+
+
+---
+
+## 📸 Report Preview
+
+### 🏠 Report Cover
+![Report Cover](Screenshot%202026-04-24%20123030.png)
+
+---
+
+### 1️⃣ Industry Overview
+![Industry Overview](Screenshot%202026-04-24%20123015.png)
+
+---
+
+### 2️⃣ Key Performance Metrics at a Glance
+![Key Performance Metrics](Screenshot%202026-04-24%20122845.png)
+
+---
+
+### 3️⃣ Company-by-Company Profiles — GP & Robi
+![Company Profiles GP and Robi](Screenshot%202026-04-24%20123100.png)
+
+---
+
+### 3️⃣ Company-by-Company Profiles — Banglalink & Teletalk
+![Company Profiles Banglalink and Teletalk](Screenshot%202026-04-24%20123110.png)
+
+---
+
+### 4️⃣ Visual Performance Dashboard
+![Visual Performance Dashboard](Screenshot%202026-04-24%20123122.png)
+
+---
+
+### 5️⃣ Comparative Scorecard
+![Comparative Scorecard](Screenshot%202026-04-24%20123134.png)
+
+---
+
+### 6️⃣ Key Findings
+![Key Findings](Screenshot%202026-04-24%20123146.png)
+
+---
