@@ -1,0 +1,148 @@
+[
+  {
+    "name": "Grameenphone",
+    "parent": "Telenor Group (Norway)",
+    "market_position": "1st – Market Leader",
+    "subscribers_M": 84.09,
+    "linkedin_followers": 436248,
+    "linkedin_employees_on_platform": 3200,
+    "posting_frequency_per_month": 14,
+    "avg_likes_per_post": 410,
+    "avg_comments_per_post": 38,
+    "avg_shares_per_post": 52,
+    "engagement_rate_pct": 3.8,
+    "top_content_pillars": [
+      "Diversity & Inclusion (Platform SHE)",
+      "Employee Spotlight",
+      "Tech Innovation / 5G",
+      "CSR & Sustainability",
+      "Graduate Recruitment"
+    ],
+    "flagship_program": "Platform SHE – female leadership mentorship",
+    "tone": "Aspirational, inclusive, purpose-driven",
+    "hashtag_strategy": "Branded (#GoBeyond, #PlatformSHE) + trending (#IWD)",
+    "video_usage_pct": 35,
+    "employee_advocacy_score": 4,
+    "career_page_active": true,
+    "linkedin_career_page": true,
+    "notable_campaigns": [
+      "Platform SHE 5.0 – mentorship for female undergrads",
+      "GP Accelerator startup programme",
+      "Next Business Leader graduate scheme"
+    ],
+    "gaps": [
+      "Low comment engagement relative to follower count",
+      "Limited Bangla-language content",
+      "CEO thought-leadership posts infrequent"
+    ]
+  },
+  {
+    "name": "Robi Axiata",
+    "parent": "Axiata Group (Malaysia) / Bharti Airtel (India)",
+    "market_position": "2nd",
+    "subscribers_M": 56.36,
+    "linkedin_followers": 339596,
+    "linkedin_employees_on_platform": 5400,
+    "posting_frequency_per_month": 10,
+    "avg_likes_per_post": 295,
+    "avg_comments_per_post": 22,
+    "avg_shares_per_post": 31,
+    "engagement_rate_pct": 3.1,
+    "top_content_pillars": [
+      "Tech & Innovation (Datathon, bdapps)",
+      "Green Initiatives (Green Sunday)",
+      "Employee Stories",
+      "Partnership Announcements",
+      "Talent / Recruitment"
+    ],
+    "flagship_program": "Datathon – national data science competition",
+    "tone": "Dynamic, innovation-forward, community-centric",
+    "hashtag_strategy": "Programme-specific (#Datathon, #bdapps) + corporate (#ParbeTumio)",
+    "video_usage_pct": 28,
+    "employee_advocacy_score": 3,
+    "career_page_active": true,
+    "linkedin_career_page": true,
+    "notable_campaigns": [
+      "Datathon 3.0 – data science & AI challenge",
+      "bdapps Innovation Summit 2025",
+      "Green Sunday sustainability initiative"
+    ],
+    "gaps": [
+      "Dual-brand confusion (Robi vs Airtel) spills into employer brand",
+      "Posting cadence inconsistent (peaks around events, drops off)",
+      "Limited visuals of actual workplace culture"
+    ]
+  },
+  {
+    "name": "Banglalink",
+    "parent": "VEON Ltd (Netherlands / Russia)",
+    "market_position": "3rd",
+    "subscribers_M": 38.23,
+    "linkedin_followers": 168000,
+    "linkedin_employees_on_platform": 1800,
+    "posting_frequency_per_month": 8,
+    "avg_likes_per_post": 180,
+    "avg_comments_per_post": 14,
+    "avg_shares_per_post": 19,
+    "engagement_rate_pct": 2.5,
+    "top_content_pillars": [
+      "Digitalyst Internship / Graduate Pipeline",
+      "Enterprise Partnerships",
+      "Digital Innovation (FinTech, AI)",
+      "Employee Wellness (Safety & Wellness Week)",
+      "CSR & Sustainability (WWF Green Office)"
+    ],
+    "flagship_program": "Digitalyst – digital-first graduate internship",
+    "tone": "Energetic, digital-first, youth-centric",
+    "hashtag_strategy": "Brand-led (#LeadTheFuture, #Digitalyst) + aspirational",
+    "video_usage_pct": 22,
+    "employee_advocacy_score": 3,
+    "career_page_active": true,
+    "linkedin_career_page": false,
+    "notable_campaigns": [
+      "Digitalyst Summer 2024 Internship",
+      "Safety & Wellness Week 2025 Walkathon",
+      "Device financing with Dhaka Bank & Samsung"
+    ],
+    "gaps": [
+      "Lowest follower count among the Big 3",
+      "No dedicated LinkedIn Career Page (relies on Facebook)",
+      "Employer brand messaging overshadowed by B2B content",
+      "New logo (Dec 2025) not yet integrated into employer brand"
+    ]
+  },
+  {
+    "name": "Teletalk",
+    "parent": "Government of Bangladesh (SOE)",
+    "market_position": "4th (State-owned)",
+    "subscribers_M": 6.58,
+    "linkedin_followers": 12000,
+    "linkedin_employees_on_platform": 450,
+    "posting_frequency_per_month": 2,
+    "avg_likes_per_post": 35,
+    "avg_comments_per_post": 4,
+    "avg_shares_per_post": 6,
+    "engagement_rate_pct": 0.8,
+    "top_content_pillars": [
+      "Government Initiatives",
+      "National Event Greetings",
+      "Service Announcements"
+    ],
+    "flagship_program": "None identified",
+    "tone": "Formal, governmental, announcement-heavy",
+    "hashtag_strategy": "Minimal – government event hashtags only",
+    "video_usage_pct": 8,
+    "employee_advocacy_score": 1,
+    "career_page_active": false,
+    "linkedin_career_page": false,
+    "notable_campaigns": [
+      "None notable in 2024-2025"
+    ],
+    "gaps": [
+      "Near-zero employer branding presence",
+      "No graduate or talent programmes surfaced",
+      "SOE perception limits talent attraction",
+      "Persistent net losses hurt brand credibility"
+    ]
+  }
+]
