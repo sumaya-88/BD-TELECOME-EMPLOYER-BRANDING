@@ -1,10 +1,7 @@
 # 📡 BD Telecom Employer Branding — LinkedIn Analysis 2026
-
 > **A structured competitive analysis of LinkedIn employer branding strategies across top telecom companies in Bangladesh — with strategic recommendations for Banglalink.**
 
-
 ## 📌 Project Overview
-
 This project demonstrates core competencies in:
 - **Digital research & competitive analysis**
 - **Social media data collection and structuring**
@@ -16,7 +13,6 @@ Skills directly relevant to **Banglalink's HR / Employer Branding** function.
 ---
 
 ## 🏢 Companies Analysed
-
 | Company | LinkedIn Followers | Posts/Month | Engagement Rate |
 |---|---|---|---|
 | 🟢 Grameenphone | 436,248 | 14 | 3.8% |
@@ -29,7 +25,6 @@ Skills directly relevant to **Banglalink's HR / Employer Branding** function.
 ---
 
 ## 📁 Project Structure
-
 ```
 BD-TELECOME-EMPLOYER-BRANDING/
 │
@@ -50,7 +45,6 @@ BD-TELECOME-EMPLOYER-BRANDING/
 ---
 
 ## 🚀 How to View the Report
-
 **Option 1 — Open locally:**
 Download the repo and open `report.html` in any browser. No server needed.
 
@@ -60,7 +54,6 @@ Download the repo and open `report.html` in any browser. No server needed.
 ---
 
 ## 🚀 How to Run the Python Script
-
 ```bash
 pip install pandas openpyxl matplotlib seaborn
 python data_collector.py
@@ -69,7 +62,6 @@ python data_collector.py
 ---
 
 ## 📊 Key Findings
-
 1. **Flagship programmes drive disproportionate engagement** — GP's Platform SHE and Robi's Datathon generate 2–3× higher engagement than standard posts.
 2. **Video content is underpowered** — Even the leader uses video in only 35% of posts, despite LinkedIn's 3× algorithm boost.
 3. **Bangla language = untapped authenticity** — All operators post predominantly in English despite targeting a Bangladeshi talent pool.
@@ -80,7 +72,6 @@ python data_collector.py
 ---
 
 ## 🎯 Top Recommendations for Banglalink
-
 | Priority | Action | Timeline |
 |---|---|---|
 | 🔴 High | Activate LinkedIn Career Page | Week 1 |
@@ -93,7 +84,6 @@ python data_collector.py
 ---
 
 ## 🛠 Tech Stack
-
 | Tool | Purpose |
 |---|---|
 | Python 3 | Data collection & export |
@@ -105,54 +95,51 @@ python data_collector.py
 ---
 
 ## 📐 Methodology
-
 Engagement rates and post metrics are **estimated** from publicly observable LinkedIn data and industry benchmarks. LinkedIn does not expose post-level analytics publicly without API access.
+
+---
+
+## 📸 Report Screenshots
+
+### 🎯 Cover — Employer Branding Social Media Analysis
+![Report Cover](Screenshot_2026-04-24_123015.png)
+
+---
+
+### 1️⃣ Industry Overview
+![Industry Overview](Screenshot_2026-04-24_123030.png)
+
+---
+
+### 2️⃣ Key Performance Metrics at a Glance
+![Key Performance Metrics](Screenshot_2026-04-24_123045.png)
+
+---
+
+### 3️⃣ Company-by-Company Profiles — GP & Robi
+![Company Profiles GP and Robi](Screenshot_2026-04-24_123100.png)
+
+---
+
+### 4️⃣ Company-by-Company Profiles — Banglalink & Teletalk
+![Company Profiles Banglalink and Teletalk](Screenshot_2026-04-24_123110.png)
+
+---
+
+### 5️⃣ Visual Performance Dashboard
+![Visual Performance Dashboard](Screenshot_2026-04-24_123122.png)
+
+---
+
+### 6️⃣ Comparative Scorecard
+![Comparative Scorecard](Screenshot_2026-04-24_123134.png)
+
+---
+
+### 7️⃣ Key Findings
+![Key Findings](Screenshot_2026-04-24_123146.png)
 
 ---
 
 *Prepared: April 2026 | Dhaka, Bangladesh*  
 *Author: [Sumaya](https://github.com/sumaya-88)*
-
-
----
-
-## 📸 Report Preview
-
-
-
----
-
-### 1️⃣ Industry Overview
-![Industry Overview](Screenshot%202026-04-24%20123015.png)
-
----
-
-### 2️⃣ Key Performance Metrics at a Glance
-![Key Performance Metrics](Screenshot%202026-04-24%20122845.png)
-
----
-
-### 3️⃣ Company-by-Company Profiles — GP & Robi
-![Company Profiles GP and Robi](Screenshot%202026-04-24%20123100.png)
-
----
-
-### 3️⃣ Company-by-Company Profiles — Banglalink & Teletalk
-![Company Profiles Banglalink and Teletalk](Screenshot%202026-04-24%20123110.png)
-
----
-
-### 4️⃣ Visual Performance Dashboard
-![Visual Performance Dashboard](Screenshot%202026-04-24%20123122.png)
-
----
-
-### 5️⃣ Comparative Scorecard
-![Comparative Scorecard](Screenshot%202026-04-24%20123134.png)
-
----
-
-### 6️⃣ Key Findings
-![Key Findings](Screenshot%202026-04-24%20123146.png)
-
----
